@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639406673 source:c:\users\adia ict center\documents\aptech_c++_projects\game\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
